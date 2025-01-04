@@ -1,6 +1,6 @@
 body {
     background-image: url('../img/Backgreen.png'); /* Substitua pelo caminho da sua imagem */
-    background-size: 30%; /* Faz a imagem cobrir toda a área */
+    background-size: 25%; /* Faz a imagem cobrir toda a área */
     background-repeat: repeat; /* Evita que a imagem se repita */
     background-position: center; /* Centraliza a imagem */
     margin: 0; /* Remove a margem padrão do body */
